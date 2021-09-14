@@ -78,8 +78,9 @@ career_eb %>%
                          breaks = c(0, 10, 100, 1000, 10000)) +
   xlab("Batting average") +
   ylab("Empirical Bayes Batting average") +
-  theme_bw() +
+  theme_bw(base_size = 14) +
   theme(legend.position = c(0.8, 0.75))
+ggsave(filename = "figures/ch3_3.pdf", width = 8, height = 6)
 
 # 3.5 So easy it feels like cheating There ----
 ## There are two steps in empirical Bayes estimation:
