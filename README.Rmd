@@ -1,3 +1,6 @@
+---
+output: github_document
+---
 
 <!-- Edit this Rmd file and not the md file  -->
 
@@ -5,5 +8,5 @@
 
 This repository contains code I created based on and following:
 
--   “Introduction to Empirical Bayes: Examples from Baseball Statistics”
-    by David Robinson. 2017
+- "Introduction to Empirical Bayes: Examples from Baseball Statistics" by David Robinson. 2017
+
