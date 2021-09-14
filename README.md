@@ -5,5 +5,6 @@
 
 This repository contains code I created based on and following:
 
--   “Introduction to Empirical Bayes: Examples from Baseball Statistics”
-    by David Robinson. 2017
+-   [“Introduction to Empirical Bayes: Examples from Baseball
+    Statistics”](https://gumroad.com/l/empirical-bayes) by David
+    Robinson. 2017
