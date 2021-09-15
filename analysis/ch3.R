@@ -82,7 +82,7 @@ career_eb %>%
   theme(legend.position = c(0.8, 0.75))
 ggsave(filename = "figures/ch3_3.pdf", width = 8, height = 6)
 
-# 3.5 So easy it feels like cheating There ----
+# 3.5 So easy it feels like cheating ----
 ## There are two steps in empirical Bayes estimation:
 ## 1. Estimate the overall distribution of your data. 
 ## 2. Use that distribution as your prior for estimating each average.
